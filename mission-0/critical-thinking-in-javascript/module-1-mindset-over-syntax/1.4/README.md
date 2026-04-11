@@ -31,17 +31,17 @@
 
 ## Interview Preparation (Top 5 Questions)
 
-1. **Question:** What is an algorithm in the context of computer science?
+1. **Question:** What is an algorithm in the context of computer science?  
    **Answer:** An algorithm is a finite, step-by-step set of well-defined instructions to solve a specific problem or perform a computation, taking some input and producing an output.
 
-2. **Question:** Why is choosing the right algorithm important in web development?
+2. **Question:** Why is choosing the right algorithm important in web development?  
    **Answer:** Choosing the right algorithm is crucial for performance optimization. It determines how efficiently an application processes data, which directly impacts load times, server costs, and overall user experience.
 
-3. **Question:** Can an algorithm have zero inputs? What about zero outputs?
+3. **Question:** Can an algorithm have zero inputs? What about zero outputs?  
    **Answer:** Yes, an algorithm can have zero inputs (e.g., an algorithm that generates a specific random number sequence). However, it _must_ have at least one output to be considered useful.
 
-4. **Question:** What are the key characteristics of a good algorithm?
+4. **Question:** What are the key characteristics of a good algorithm?  
    **Answer:** The key characteristics are Finiteness (must terminate), Definiteness (unambiguous steps), Input (zero or more), Output (one or more), and Effectiveness (basic, executable steps).
 
-5. **Question:** How do you measure the efficiency of an algorithm?
+5. **Question:** How do you measure the efficiency of an algorithm?  
    **Answer:** The efficiency of an algorithm is primarily measured using Time Complexity (how long it takes to run as the input grows) and Space Complexity (how much memory it uses), typically expressed in Big O Notation.
